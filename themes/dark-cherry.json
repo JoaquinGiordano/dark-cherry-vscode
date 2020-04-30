@@ -4,9 +4,11 @@
     "colors": {
 		"activityBar.background": "#1b1b1b",
 		"activityBarBadge.background": "#ff0054",
+		"button.background":"#ff002299",
         "editor.background": "#1b1b1b",
-        "editor.foreground": "#adadad",
-		"editor.lineHighlightBackground": "#313131",
+		"editor.foreground": "#adadad",
+		"editor.lineHighlightBackground": "#33333333",
+		"textLink.foreground": "#ff0054",
 		"sideBar.background": "#212121",
 		"sideBarTitle.foreground":"#ff0054",
 		"sideBarSectionHeader.background":"#212121",
@@ -24,6 +26,7 @@
 		"editor.findMatchBackground": "#ff002299",
 		"editor.findMatchHighlightBackground": "#ff002255",
 		"statusBar.background":"#ff0033",
+		"statusBar.noFolderBackground": "#ff0033",
 		"titleBar.activeBackground":"#1b1b1b",
 		"titleBar.inactiveBackground": "#1b1b1b"
     },
