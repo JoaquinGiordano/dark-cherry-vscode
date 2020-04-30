@@ -1,0 +1,25 @@
+{
+  "name": "dark-cherry-theme",
+  "version": "0.0.1",
+  "description": "VSCode Theme",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+        {
+            "label": "Dark Cherry",
+            "uiTheme": "vs-dark",
+            "path": "./themes/dark-cherry.json"
+        }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquin Giordano <joaquin_giordano@outlook.com>",
+  "license": "ISC"
+}

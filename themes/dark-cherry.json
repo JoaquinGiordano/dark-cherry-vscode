@@ -1,0 +1,29 @@
+{
+    "name": "DarkCherry",
+    "type": "dark",
+    "colors": {
+        "activityBar.background": "#1b1b1b",
+        "editor.background": "#1b1b1b",
+        "editor.foreground": "#adadad",
+		"editor.lineHighlightBackground": "#313131",
+		"sideBar.background": "#212121",
+		"sideBarTitle.foreground":"#ff0054",
+		"sideBarSectionHeader.background":"#212121",
+		"sideBarSectionHeader.foreground":"#ff0054",
+		"minimap.selectionHighlight": "#ff0044",
+		"minimap.findMatchHighlight": "#646464",
+		"editorGroup.dropBackground": "#ff002255",
+		"editorGroupHeader.tabsBackground": "#212121",
+		"tab.activeBackground": "#1b1b1b",
+		"tab.activeBorderTop":"#ff0054",
+		"editor.selectionBackground": "#ff002299",
+		"editor.findMatchBackground": "#ff002299",
+		"editor.findMatchHighlightBackground": "#ff002255",
+		"statusBar.background":"#ff0033",
+		"titleBar.activeBackground":"#1b1b1b",
+		"titleBar.inactiveBackground": "#1b1b1b"
+    },
+    "tokenColors": [
+       
+    ]
+}
