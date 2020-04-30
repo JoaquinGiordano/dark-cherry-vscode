@@ -1,10 +1,19 @@
 {
   "name": "dark-cherry-theme",
+  "displayName": "Dark Cherry Theme",
+  "publisher": "Joaquin Giordano",
+  "description":"An elegant dark theme",
   "version": "1.1.0",
-  "description": "VSCode Theme",
   "engines": {
     "vscode": "^1.42.0"
   },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaquinGiordano/dark-cherry-vscode"
+  },
+  "homepage": "https://github.com/JoaquinGiordano/dark-cherry-vscode",
+  "keywords": ["cherry", "dark", "theme", "elegant"],
   "categories": [
     "Themes"
   ],
@@ -16,9 +25,6 @@
             "path": "./themes/dark-cherry.json"
         }
     ]
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joaquin Giordano <joaquin_giordano@outlook.com>",
   "license": "ISC"

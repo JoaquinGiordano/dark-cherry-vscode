@@ -44,7 +44,8 @@
 		{
 			"name": "Colors",
 			"scope":[
-				"constant.other.color"
+				"constant.other.color",
+				"support.constant"
 			],
 			"settings":{
 				"foreground": "#7dafff"
@@ -150,10 +151,8 @@
 			"scope": [
 				"constant.numeric",
 				"constant.language",
-				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
@@ -195,12 +194,31 @@
 			}
 		},
 		{
+			"name":"More Variables",
+			"scope":[
+				"variable.other.object",
+				"variable.parameter"
+			],
+			"settings":{
+				"foreground":"#adadad"
+			}
+		},
+		{
 			"name": "Class Name",
 			"scope":[
 				"entity.name.type.class"
 			],
 			"settings":{
 				"foreground":"#7dafff"
+			}
+		},
+		{
+			"name":"Return",
+			"scope": [
+				"keyword.control.flow"
+			],
+			"settings":{
+				"foreground":"#ff4561"
 			}
 		}
 		

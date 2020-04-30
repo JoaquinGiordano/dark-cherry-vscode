@@ -1,0 +1,28 @@
+
+html,body{
+    background-color: #1b1b1b;
+}
+
+*{
+    font-family: "Montserrat";
+}
+
+h1{
+    color: #ff0054;
+}
+
+p{
+    padding: 0px 250px;
+    text-align: center;
+    color: #e71f62;
+}
+
+#container{
+    text-align: center;
+}
+
+#template_container{
+    height: calc(100vh - 200px);
+    border: 5px #303030 solid;
+    border-radius: 5px;
+}
