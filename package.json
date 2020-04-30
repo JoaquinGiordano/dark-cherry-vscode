@@ -1,31 +1,41 @@
 {
-  "name": "dark-cherry-theme",
-  "displayName": "Dark Cherry Theme",
-  "publisher": "Joaquin Giordano",
-  "description":"An elegant dark theme",
-  "version": "1.1.0",
-  "engines": {
-    "vscode": "^1.42.0"
-  },
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/JoaquinGiordano/dark-cherry-vscode"
-  },
-  "homepage": "https://github.com/JoaquinGiordano/dark-cherry-vscode",
-  "keywords": ["cherry", "dark", "theme", "elegant"],
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-        {
-            "label": "Dark Cherry",
-            "uiTheme": "vs-dark",
-            "path": "./themes/dark-cherry.json"
-        }
-    ]
-  },
-  "author": "Joaquin Giordano <joaquin_giordano@outlook.com>",
-  "license": "ISC"
+	"name": "dark-cherry-theme",
+	"displayName": "Dark Cherry Theme",
+	"publisher": "joaquingiordano",
+	"description": "An elegant dark theme",
+	"version": "1.2.0",
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JoaquinGiordano/dark-cherry-vscode"
+	},
+	"homepage": "https://github.com/JoaquinGiordano/dark-cherry-vscode",
+	"keywords": [
+		"cherry",
+		"dark",
+		"theme",
+		"elegant"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Cherry",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-cherry.json"
+			}
+		]
+	},
+	"author": "Joaquin Giordano <joaquin_giordano@outlook.com>",
+	"license": "ISC",
+	"__metadata": {
+		"id": "ba924e09-183c-4d87-934e-cde356073f9e",
+		"publisherDisplayName": "Joaquin Giordano",
+		"publisherId": "fde2ca01-4cdd-4b8d-afa5-eddbcf3fc295"
+	}
 }
