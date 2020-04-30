@@ -1,6 +1,6 @@
 {
   "name": "dark-cherry-theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "VSCode Theme",
   "engines": {
     "vscode": "^1.42.0"
